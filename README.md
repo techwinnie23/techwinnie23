@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Winnie 👋
 
-<!--
-**techwinnie23/techwinnie23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technical Product Manager passionate about building digital products that solve real-world problems. With experience in B2B/B2C platforms, QA testing, UX optimization, and agile product delivery, I focus on creating seamless user experiences and driving growth.
 
-Here are some ideas to get you started:
+💼 **Current Roles**  
+- Technical Product Manager @ Jibu Labs  
+- Founder @ ProductNBO  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What I Work On**  
+- Mentorship & community growth  
+- UX and QA optimization  
+- E-commerce & education tech products  
+
+📫 **Connect with me**  
+- LinkedIn: [Winnie Mutheu](https://www.linkedin.com/in/winnie-mutheu-763064249/)  
+- Email: winnie.mutheuwambua@gmail.com  
+
+---
+
+_“Building tech that’s useful, inclusive, and human.”_
+
